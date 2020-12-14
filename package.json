@@ -1,0 +1,32 @@
+{
+  "name": "BSharpTraining",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "normalize.css": "^8.0.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.1.0",
+    "postcss-nested": "^5.0.3",
+    "postcss-simple-vars": "^6.0.2",
+    "webpack": "^5.10.1",
+    "webpack-cli": "^4.2.0"
+  },
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelJFowler/BSharpTraining.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelJFowler/BSharpTraining/issues"
+  },
+  "homepage": "https://github.com/MichaelJFowler/BSharpTraining#readme"
+}
